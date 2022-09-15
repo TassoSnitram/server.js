@@ -1,4 +1,3 @@
-# server.js
 'use strict';
 const express = require('express');
 const validarCpf = require('validar-cpf');
